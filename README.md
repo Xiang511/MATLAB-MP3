@@ -8,7 +8,7 @@
 ### Features
 - 透過按鍵實現暫停，播放等功能。
 - 附有可視化拉條直覺的控制歌曲播放
-- 運用課程學到的gui設計和檔案讀取
+- 運用課程學到的GUI設計和檔案讀取
 
 ### Process introduction
 1. 建立一個控制窗口，並設立按鈕。
@@ -20,6 +20,9 @@
 ## Usage
 ```
 MATLAB-R2021 : 開啟資料夾並切換至對應的工作區再執行Script程式碼
+```
+```MATLAB
+mp3FileName = 'Imagine Dragons - Demons.mp3'; % 修改要播放的歌曲
 ```
 
 ## Demo
