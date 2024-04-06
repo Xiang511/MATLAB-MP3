@@ -3,7 +3,7 @@
 ![Github Created At](https://img.shields.io/github/created-at/XIang511/MATLAB-MP3?style=for-the-badge&color=green)
 ![GitHub License](https://img.shields.io/github/license/Xiang511/MATLAB-MP3?style=for-the-badge)
 
-創建一個Matlab設計的音樂播放器
+使用MATLAB-GUI設計一個音樂播放器
 
 ### Features
 - 透過按鍵實現暫停，播放等功能。
