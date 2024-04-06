@@ -24,10 +24,28 @@ MATLAB-R2021 : 開啟資料夾並切換至對應的工作區再執行Script程�
 
 ## Demo
 
-![image](https://github.com/Xiang511/MATLAB-MP3/assets/120042360/ce194001-1977-43db-971c-fdd3b5da0055)
+```
+https://www.youtube.com/watch?v=BgU0paNg_Xk
+```
 
-[點擊前往](https://www.youtube.com/watch?v=BgU0paNg_Xk)
+## Contributors
+<table>
+  <tr align="left">
+  <td align="center">
+  <a href="https://github.com/Xiang511" style="display:inline-block;width:110px"><img src="https://avatars.githubusercontent.com/u/120042360?v=4" width="88px;"alt="Xiang511"/><br/><sub><b>Xiang511</b></sub></a><br/>
+  </td> 
+    
+  <td align="center">
+    <a href="https://github.com/a0979551728"  style="display:inline-block;width:110px"><img src="https://avatars.githubusercontent.com/u/149994291?v=4" width="88px;" alt="a0979551728"/><br/><sub><b>a0979551728</b></sub></a><br/>
+  </td>
+    
+  <td align="center">
+    <a href="https://github.com/Shahatis" style="display:inline-block;width:110px"><img src="https://avatars.githubusercontent.com/u/165771548?v=4" width="88px;" alt="Shahatis"/><br/><sub><b>Shahatis</b></sub></a><br/>
+  </td>
 
+
+  </tr>
+</table>
 
 
 
