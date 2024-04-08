@@ -45,6 +45,10 @@ https://www.youtube.com/watch?v=BgU0paNg_Xk
   <td align="center">
     <a href="https://github.com/Shahatis" style="display:inline-block;width:110px"><img src="https://avatars.githubusercontent.com/u/165771548?v=4" width="88px;" alt="Shahatis"/><br/><sub><b>Shahatis</b></sub></a><br/>
   </td>
+  
+   <td align="center">
+    <a href="https://github.com/Ericthegoatskr" style="display:inline-block;width:110px"><img src="https://avatars.githubusercontent.com/u/166353015?v=4" width="88px;" alt="Ericthegoatskr"/><br/><sub><b>Ericthegoatskr</b></sub></a><br/>
+  </td>
 
 
   </tr>
