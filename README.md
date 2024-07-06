@@ -5,6 +5,8 @@
 
 使用MATLAB-GUI設計一個音樂播放器
 
+**_此專案為課程練習使用_ !**
+
 ### Features
 - 透過按鍵實現暫停，播放等功能。
 - 附有可視化拉條直覺的控制歌曲播放
@@ -30,6 +32,13 @@ mp3FileName = 'Imagine Dragons - Demons.mp3'; % 修改要播放的歌曲
 ```
 https://www.youtube.com/watch?v=BgU0paNg_Xk
 ```
+
+## References
+
+```
+https://zhuanlan.zhihu.com/p/59752784
+```
+
 
 ## Contributors
 <table>
